@@ -1,4 +1,4 @@
-## Hi there 👋# Hi, I'm Dolev David Ben Ezri
+# Hi, I'm Dolev David Ben Ezri
 
 I'm an IT Support Specialist based in Israel, working toward a career in Cloud, DevOps, and Infrastructure.
 
