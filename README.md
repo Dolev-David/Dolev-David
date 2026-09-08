@@ -20,3 +20,11 @@ I enjoy troubleshooting, understanding how systems work, and finding ways to aut
 * Building toward cloud deployment and CI/CD projects.
 
 I'm starting this portfolio to share projects, document what I learn, and explain the decisions and troubleshooting behind my work.
+
+## Projects
+
+### [Windows Diagnostics](https://github.com/Dolev-David/windows-diagnostics)
+
+A PowerShell learning project that collects Windows, memory, disk space, and network information into a JSON report. Includes usage instructions, a synthetic example report, and a validation checklist.
+
+**Status:** Starter implementation; Windows testing is pending. Prepared with AI assistance.
